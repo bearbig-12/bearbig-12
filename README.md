@@ -1,5 +1,11 @@
+
+<div align=center> 
+   
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello%20World&fontSize=90)
 
+ </div>
+
+   
 ![iOS badge](https://wakatime.com/badge/user/7616992a-381d-4ff2-81be-8f4a17673559.svg)
 
 
@@ -12,25 +18,16 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=WakaTime&logoColor=white">
 
+<div align=center> 
 
 
 [![KuVee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KuVee)](https://github.com/anuraghazra/github-readme-stats)
-
 ![KuVee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearbig-12&hide=contribs,prs)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bearbig-12&repo=CppStudy)](https://github.com/bearbig-12/CppStudy)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bearbig-12&repo=PhysicsEngine)](https://github.com/bearbig-12/PhysicsEngine)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearbig-12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-## License
-
-MIT
-
-**Hello There**
+ </div>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
