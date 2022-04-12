@@ -21,7 +21,7 @@
 <div align=center> 
 
 
-[![KuVee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KuVee)](https://github.com/anuraghazra/github-readme-stats)
+[![KuVee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KuVee)](https://wakatime.com/dashboard)
    
 ![KuVee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearbig-12&hide=contribs,prs)
    
