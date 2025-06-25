@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=WakaTime&logoColor=white">
-<img src="https://img.shields.io/badge/SFML-#8CC445?style=flat-square&logo=SFML&logoColor=white"/>
 
 
 <div align=center> 
